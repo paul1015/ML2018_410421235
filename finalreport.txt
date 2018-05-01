@@ -1,0 +1,22 @@
+Final report 410421235:
+(a) the way how you prepare the training samples:
+	把題目給的圖先讀進來,再換成陣列形式,再經由老師上面所給的演算法來訓練資料
+(b) all parameters, such as MaxlterLimit,a and e, you used for the training algorithm:
+	epoch as Epoch
+	ak as a(k)
+	ek as E(k)
+	w as w
+	maxlimit as maxlterlimit
+	a as a == 0.00001
+	x = data
+	x[0] as K1(k)
+	x[1] as K2(k)
+	x[2] as I(k)
+(c) the derived weight vector w:
+	It print in the code
+(d) the print image I’ decrypted from E’
+	It’s is the film name finalpicture.jpg
+(e) the problem I encountered: 
+	First I think the big problem is to understand how to open the picture and make it into a array, next use 	teacher’s algorithm to training the w and put w into the equation to find the finalpicture , I think the main 	problem still is to learn how to use python 套件 correct.
+(f) what you have learned from this work:
+	In this work, I understand python is a really powerful and simple language.
